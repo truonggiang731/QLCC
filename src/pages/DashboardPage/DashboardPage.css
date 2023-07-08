@@ -1,0 +1,11 @@
+.site-layout-background{
+    background-color: #fff;
+}
+
+.ant-layout{
+    min-height: 100vh;
+}
+
+.ant-avatar{
+    margin-right: 8px;
+}
